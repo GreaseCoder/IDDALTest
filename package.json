@@ -1,0 +1,23 @@
+{
+  "name": "IDDALTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreaseCoder/IDDALTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreaseCoder/IDDALTest/issues"
+  },
+  "homepage": "https://github.com/GreaseCoder/IDDALTest#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
